@@ -1,4 +1,3 @@
-````markdown
 # 🤖 IntelliView – AI-Powered Interview Coach
 
 Welcome to **IntelliView**, a smart, AI-powered resume analyzer and interview preparation platform built using **Streamlit**, **Google Gemini API**, and **ngrok**. It helps job seekers evaluate their resumes, get real-time insights, and practice mock interviews powered by **Generative AI**.
