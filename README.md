@@ -15,9 +15,7 @@ Welcome to **IntelliView**, a smart, AI-powered resume analyzer and interview pr
   - [Gemini API Key (Google AI Studio)](#1-gemini-api-key-google-ai-studio)
   - [ngrok AuthToken](#2-ngrok-authtoken)
 - [💡 Usage Flow](#-usage-flow)
-- [🧪 Sample Run](#-sample-run)
 - [🙌 Contributions](#-contributions)
-- [📃 License](#-license)
 
 ---
 
